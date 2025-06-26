@@ -1,0 +1,10 @@
+[theme]
+base = "light"
+textColor = "#2c3e50"
+primaryColor = "#2980b9"
+
+[server]
+maxUploadSize = 64
+
+[logger]
+level = "warning"
